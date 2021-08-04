@@ -1,4 +1,3 @@
-
 public class Enquiry {
 	private int enquiryid;
 	private String title;
